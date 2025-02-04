@@ -1,0 +1,58 @@
+#textAnimation {
+  margin-top: 150px;
+  margin-bottom: 0;
+  width:100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.staticDiv{
+  display: flex;
+  align-items: end;
+  justify-content: end;
+  width: 110%;
+}
+.static {
+  color: #ff009d;
+  font-size: clamp(15px, 3vw, 30px);
+  font-weight: lighter;
+  position:relative;
+  display: flex;
+}
+.dinamicDiv{
+  display: flex;
+  width: 90%;
+}
+.dinamic {
+  position: relative;
+  color: white;
+  text-shadow: 0 0 5px white;
+  font-size: clamp(15px, 3vw, 30px);
+  font-weight: lighter;
+  
+}
+.dinamic::after {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  border-left: 3px solid #ff009d;
+  left: 0;
+  right: 0;
+  background-color: #28282b;
+  animation: typing 3s infinite;
+}
+@keyframes typing {
+  0%{
+    transform: translateX(0);
+  }
+  50%{
+    transform: translateX(100%);
+  }
+  100%{
+    transform: translateX(0);
+  }
+}

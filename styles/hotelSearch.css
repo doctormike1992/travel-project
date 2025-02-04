@@ -1,0 +1,79 @@
+.hotelSearch {
+  margin-top: -120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  width: auto;
+  flex-wrap: wrap;
+}
+.hotelSearch h2 {
+  color: white;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+#hotel-search-form {
+  width: 100%;
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 70px 7px;
+  background-color: rgba(14, 146, 179, 0.438);
+  box-shadow: 0px 0px 15px 6px #4b4b4b;
+  border-radius: 20px;
+  z-index: 1;
+  animation: search 2s ease-in-out;
+}
+@media (max-width: 550px) {
+  #hotel-search-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@keyframes search {
+  from {
+    transform: translateY(80px);
+    opacity: 0.3;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+#hotel-search-form div {
+  display: flex;
+  flex-direction: column;
+}
+#hotel-search-form input {
+  box-shadow: 10px 12px 15px black;
+  border: none;
+  width: clamp(150px, 20vw, 340px);
+  font-size: clamp(12px, 2.5vw, 30px);
+}
+label {
+  font-size: 20px;
+  margin-left: 10px;
+  color: white;
+  font-weight: bold;
+}
+.search-hotel-button {
+  background-color: white;
+  font-size: clamp(10px, 2vw, 16px);
+  padding: clamp(10px, 2vw, 18px);
+
+  border: none;
+  border-radius: 20px;
+  margin-bottom: 1px;
+  font-weight: bold;
+  box-shadow: 10px 12px 15px black;
+}
+.search-hotel-button:active {
+  color: white;
+  background-color: black;
+}

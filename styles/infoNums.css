@@ -1,0 +1,126 @@
+.info-numbers {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1600px;
+  margin-top: 15em;
+  border-radius: 5px;
+  padding: 1em 15em;
+  padding-left: 19em;
+  position: relative;
+  background: linear-gradient(
+    to left,
+    rgba(40, 40, 43, 1) 1%,
+    rgba(57, 1, 95, 1) 50%,
+    rgba(40, 40, 43, 1) 99%
+  );
+}
+
+.info-numbersDiv {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0rem;
+}
+
+.info-numbersSubDiv {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: start;
+  justify-content: center;
+  /* padding: 0em 1em; */
+  flex-wrap: nowrap;
+  width: clamp(6rem, 10vw, 10rem);
+}
+
+.info-numbersDiv i {
+  font-size: clamp(30px, 10vw, 60px);
+}
+.hotel{
+  color: rgb(216, 185, 8);
+}
+.city{
+  color: gray;
+}
+.global{
+  color: rgb(40, 40, 145);
+}
+.info-numbersSubDiv p {
+  margin: 0;
+  color: rgb(199, 197, 197);
+  font-weight: bold;
+  font-family: Arial;
+  font-size: clamp(12px, 2.5vw, 14px);
+  margin: -2px 0px;
+}
+
+.numHotel,
+.numCity,
+.numCountry {
+  font-size: clamp(30px, 5vw, 50px) !important;
+  color: white !important;
+  text-shadow: 0 0 3px;
+}
+
+@media (max-width: 768px) {
+  .info-numbers {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5em;
+    padding-left: 15em;
+  }
+
+  .info-numbersDiv {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
+  }
+
+  .info-numbersSubDiv {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+  }
+
+  .info-numbersDiv i {
+    font-size: clamp(20px, 8vw, 40px);
+  }
+
+  .info-numbersSubDiv p {
+    font-size: clamp(10px, 2vw, 16px);
+  }
+
+  .numHotel,
+  .numCity,
+  .numCountry {
+    font-size: clamp(20px, 4vw, 40px) !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .info-numbers {
+    margin-top: 3em;
+    padding-left: 15em;
+
+  }
+
+  .info-numbersDiv i {
+    font-size: clamp(20px, 6vw, 35px);
+  }
+
+  .info-numbersSubDiv p {
+    font-size: clamp(15px, 1.5vw, 20px);
+  }
+
+  .numHotel,
+  .numCity,
+  .numCountry {
+    font-size: clamp(20px, 3vw, 35px) !important;
+  }
+}

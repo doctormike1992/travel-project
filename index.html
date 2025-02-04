@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Travel Agency</title>
+    <!-- styles -->
+    <link rel="stylesheet" href="styles/header.css" />
+    <link rel="stylesheet" href="styles/general.css" />
+    <link rel="stylesheet" href="styles/hero.css" />
+    <link rel="stylesheet" href="styles/destination.css" />
+    <link rel="stylesheet" href="styles/hotelSearch.css" />
+    <link rel="stylesheet" href="styles/hotelResults.css" />
+    <link rel="stylesheet" href="styles/general-slider.css" />
+    <link rel="stylesheet" href="styles/infoNums.css" />
+    <link rel="stylesheet" href="styles/popular.css" />
+     <link rel="stylesheet" href="styles/textAnimation.css">
+     <link rel="stylesheet" href="styles/footer.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/litepicker/dist/css/litepicker.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/litepicker/dist/litepicker.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <!-- header -->
+    <header class="header">
+      <div id="head-container">
+       <h2>
+        <a href="#hero" class="brand">Travel Agency</a>
+       </h2> 
+        <nav class="nav">
+          <ul class="nav-list">
+             <label for="check" class="barMenu">
+                <input type="checkbox" id="check">
+              </label> 
+            <li class="menuLi"><a href="#input">Hotels</a></li>
+            <li class="menuLi"><a href="#popular-destination">Popular</a></li>
+            <li class="menuLi"><a href="#textAnimation">Photos</a></li>
+            <li class="menuLi"><a href="#footer">Contact</a></li>
+        
+             
+            
+        
+          </ul>
+        </nav>
+      </div>
+    </header>
+   
+
+    <!-- main content -->
+    <main>
+      <!-- hero-div -->
+      <section id="hero">
+        <video autoplay muted loop id="background-video">
+          <source
+            src="/images/2252797-uhd_2560_1440_30fps.mp4"
+            type="video/mp4"
+          />
+        </video>
+        <div class="monologue">
+          <h2>Traveling is Life</h2>
+          <p>let's explore the world together</p>
+        </div>
+        <div class="search">
+          <p>Take a look around the world</p>
+          <input id="input" type="text" placeholder="Search..." />
+          <button class="search-button">
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </button>
+        </div>
+      </section>
+      <section class="hotelSearch">
+        <form id="hotel-search-form">
+          <div>
+            <label for="destination">Where?</label>
+            <input type="text" id="destination" required />
+          </div>
+          <div>
+            <label for="litepicker">When?</label>
+            <input type="text" id="litepicker" required />
+          </div>
+          <button class="search-hotel-button">Search</button>
+        </form>
+      </section>
+      <!-- hotel results -->
+      <section id="hotel-results"></section>
+      <!-- info numbers -->
+      <section>
+        <div class="info-numbers">
+          <div class="info-numbersDiv">
+            <div><i class="fa-solid fa-hotel hotel"></i></div>
+            <div class="info-numbersSubDiv">
+              <p>More than</p>
+              <p class="numHotel"></p>
+              <p>Hotels</p>
+            </div>
+          </div>
+          <div class="info-numbersDiv">
+            <div><i class="fa-solid fa-city city"></i></div>
+            <div class="info-numbersSubDiv">
+              <p>In</p>
+              <p class="numCity"></p>
+              <p>Cities</p>
+            </div>
+          </div>
+          <div class="info-numbersDiv">
+            <div><i class="fa-solid fa-globe global"></i></div>
+            <div class="info-numbersSubDiv">
+              <p>On</p>
+              <p class="numCountry"></p>
+              <p>Countries</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- Popular Destinations -->
+      <section id="popular-destination">
+        <div class="popular-header">
+          <h1>Our Most Popular Locations</h1>
+          <h2>And your next destination</h2>
+        </div>
+        <div class="popularGrid">
+          <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/tokyo.jpeg" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Tokyo, Japan</p>
+            </div>
+            <div class="popularInfo">
+              <p>A vibrant blend of modern technology and traditional culture, Tokyo offers unique attractions such as the historic Meiji Shrine, bustling Shibuya Crossing, and the futuristic Odaiba district.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div>
+           <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/paris.jpg" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Paris, France</p>
+            </div>
+            <div class="popularInfo">
+              <p>Known as the "City of Light," Paris is a top destination for its iconic landmarks like the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral. </p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/new-york.jpeg" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>New York City, USA</p>
+            </div>
+            <div class="popularInfo">
+              <p>"The Big Apple" is famous for its towering skyscrapers, Broadway shows, and cultural diversity.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/rome.jpg" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Rome, Italy</p>
+            </div>
+            <div class="popularInfo">
+              <p>With ancient ruins like the Colosseum and the Roman Forum, Rome is a treasure trove of history. Tourists can also marvel at the Vatican City, home to St. Peter’s Basilica and the Sistine Chapel.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/sydney.webp" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Sydney, Australia</p>
+            </div>
+            <div class="popularInfo">
+              <p>Known for its iconic Opera House and Harbour Bridge, Sydney boasts beautiful beaches like Bondi and Manly.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/cape-town.webp" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Cape Town, South Africa</p>
+            </div>
+            <div class="popularInfo">
+              <p>Nestled between the ocean and Table Mountain, Cape Town offers breathtaking views and rich cultural history. Visitors can explore Robben Island, the Cape Winelands.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/bangkok.webp" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Bangkok, Thailand</p>
+            </div>
+            <div class="popularInfo">
+              <p>A bustling city full of vibrant markets, ornate temples like Wat Arun and Wat Phra Kaew, and delicious street food. </p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/barcelona.webp" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Barcelona, Spain</p>
+            </div>
+            <div class="popularInfo">
+              <p>Famous for its stunning architecture by Antoni Gaudí, including the Sagrada Família and Park Güell.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/dubai.jpg" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Dubai, UAE</p>
+            </div>
+            <div class="popularInfo">
+              <p>A city of superlatives, Dubai features the world’s tallest building (Burj Khalifa), luxurious shopping malls, and man-made islands.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/istanbul.jpg" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Istanbul, Turkey</p>
+            </div>
+            <div class="popularInfo">
+              <p>A city that straddles Europe and Asia, Istanbul is rich in history and culture.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/rio.jpg" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Rio de Janeiro, Brazil</p>
+            </div>
+            <div class="popularInfo">
+              <p>Known for its vibrant Carnival festival, Rio is home to the Christ the Redeemer statue and stunning beaches like Copacabana.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div> <div class="popularDiv animate-on-scroll">
+            <div class="popularImg">
+              <img src="images/kyoto.jpg" alt="">
+              <p><i class="fa-solid fa-location-dot"></i>Kyoto, Japan</p>
+            </div>
+            <div class="popularInfo">
+              <p>A city steeped in tradition, Kyoto is known for its beautiful temples, such as Kinkaku-ji (Golden Pavilion), and charming bamboo forests.</p>
+            </div>
+            <div class="poularButton">
+              <button>See More &gt;</button>
+            </div>
+          </div>
+          </div>
+          
+        </div>
+      </section>
+      <section id="show-place-div">
+        <div class="slideContainer">
+          <div class="slide">
+            <div class="destination-img">
+              <div class="content">
+                <h3 class="input-name"></h3>
+                <p class="citydescriptionP"></p>
+                <button>See More</button>
+              </div>
+            </div>
+            <div class="destination-img">
+              <div class="content">
+                <h3 class="input-name"></h3>
+                <p class="citydescriptionP"></p>
+                <button>See More</button>
+              </div>
+            </div>
+            <div class="destination-img">
+              <div class="content">
+                <h3 class="input-name"></h3>
+                <p class="citydescriptionP"></p>
+                <button>See More</button>
+              </div>
+            </div>
+            <div class="destination-img">
+              <div class="content">
+                <h3 class="input-name"></h3>
+                <p class="citydescriptionP"></p>
+                <button>See More</button>
+              </div>
+            </div>
+            <div class="destination-img">
+              <div class="content">
+                <h3 class="input-name"></h3>
+                <p class="citydescriptionP"></p>
+                <button>See More</button>
+              </div>
+            </div>
+            <div class="destination-img">
+              <div class="content">
+                <h3 class="input-name"></h3>
+                <p class="citydescriptionP"></p>
+                <button>See More</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="button">
+          <button class="prevSlide">
+            <i class="fa-solid fa-arrow-left"></i>
+          </button>
+          <button class="nextSlide">
+            <i class="fa-solid fa-arrow-right"></i>
+          </button>
+        </div>
+      </section>
+      <section id="textAnimation">
+          <div class="staticDiv">
+           <p class="static">Take a Look at the Beautie of </p> 
+          </div> 
+          <div class="dinamicDiv">
+            <p class="dinamic"></p>
+          </div>
+      </section>
+      
+      <!-- general-slider -->
+      <section class="general-slider">
+        <div class="slider">
+          <!-- list Items -->
+          <div class="list">
+            <div class="item active">
+              <img class="general-image" alt="Sunset over a tropical beach" />
+              <div class="content">
+                <p>Travel</p>
+                <h2>Discover Paradise</h2>
+                <p>
+                  Experience the serene beauty of tropical islands. Relax by
+                  crystal-clear waters and enjoy unforgettable sunsets.
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <img class="general-image" alt="Snowy mountains" />
+              <div class="content">
+                <p>Adventure</p>
+                <h2>Explore the Peaks</h2>
+                <p>
+                  Embark on thrilling adventures in majestic mountains. Hike,
+                  ski, and breathe in the crisp alpine air.
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <img class="general-image" alt="City skyline at night" />
+              <div class="content">
+                <p>Cityscapes</p>
+                <h2>Urban Escapes</h2>
+                <p>
+                  Discover vibrant cities filled with culture, cuisine, and
+                  endless excitement. The city awaits you!
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <img class="general-image" alt="Desert landscape" />
+              <div class="content">
+                <p>Nature</p>
+                <h2>Desert Wonders</h2>
+                <p>
+                  Journey through the golden sands of vast deserts and witness
+                  breathtaking oases and starry nights.
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <img class="general-image" alt="Historical landmark" />
+              <div class="content">
+                <p>Heritage</p>
+                <h2>Timeless Landmarks</h2>
+                <p>
+                  Immerse yourself in history as you visit iconic landmarks that
+                  have stood the test of time.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- button arrows -->
+          <div>
+            <button id="prev">&#60;</button>
+          </div>
+          <div>
+            <button id="next">&gt;</button>
+          </div>
+          <!-- thumbnail -->
+          <div class="thumbnail">
+            <div class="item active">
+              <img
+                class="general-small-image"
+                alt="Thumbnail of tropical beach"
+              />
+              <div class="content">Paradise</div>
+            </div>
+            <div class="item">
+              <img
+                class="general-small-image"
+                alt="Thumbnail of snowy mountains"
+              />
+              <div class="content">Peaks</div>
+            </div>
+            <div class="item">
+              <img
+                class="general-small-image"
+                alt="Thumbnail of city skyline"
+              />
+              <div class="content">Urban</div>
+            </div>
+            <div class="item">
+              <img
+                class="general-small-image"
+                alt="Thumbnail of desert landscape"
+              />
+              <div class="content">Desert</div>
+            </div>
+            <div class="item">
+              <img
+                class="general-small-image"
+                alt="Thumbnail of historical landmark"
+              />
+              <div class="content">Landmark</div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- selected-destination-div -->
+      
+    </main>
+    <!-- footer -->
+    <footer id="footer">
+      <div class="container">
+        <div>
+          <h3>Travel Agency</h3>
+          <p>123 Main Street</p>
+          <p>Anytown, USA 12345</p>
+          <p>
+            <a href="tel:123-456-7890">123-456-7890</a>
+          </p>
+        </div>
+        <div>
+          <h3>Hours of Operation</h3>
+          <p>Monday - Friday: 9am - 5pm</p>
+          <p>Saturday: 10am - 4pm</p>
+          <p>Sunday: Closed</p>
+        </div>
+        <ul>
+          <li>
+            <a href="#"><i class="fab fa-facebook"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="fab fa-youtube"></i></a>
+          </li>
+        </ul>
+        <p>&copy; 2021 Travel Agency. All rights reserved.</p>
+      </div>
+    </footer>
+    <!-- scripts -->
+    <script type="module" src="/js/hotel-search.js"></script>
+  </body>
+</html>

@@ -1,0 +1,2704 @@
+[
+  {
+    "name": "Washington-Turner",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "price_per_night": 431,
+    "amenities": ["Restaurant", "Airport Shuttle", "Gym"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Romero and Sons",
+    "city": "Brisbane",
+    "country": "Australia",
+    "price_per_night": 313,
+    "amenities": ["Spa", "Restaurant", "Airport Shuttle"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Coleman-Shields",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 196,
+    "amenities": ["Airport Shuttle", "Pool", "Gym"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Ramos-Alexander",
+    "city": "Nice",
+    "country": "France",
+    "price_per_night": 146,
+    "amenities": ["Free WiFi", "Restaurant", "Gym"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Schultz PLC",
+    "city": "Osaka",
+    "country": "Japan",
+    "price_per_night": 389,
+    "amenities": ["Spa", "Breakfast included", "Free WiFi"],
+    "ratings": 4.2
+  },
+  {
+    "name": "Williams Inc",
+    "city": "Perth",
+    "country": "Australia",
+    "price_per_night": 366,
+    "amenities": ["Restaurant", "Free WiFi", "Gym"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Lucas and Sons",
+    "city": "Munich",
+    "country": "Germany",
+    "price_per_night": 173,
+    "amenities": ["Gym", "Pool", "Restaurant"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Cox Group",
+    "city": "Kyoto",
+    "country": "Japan",
+    "price_per_night": 413,
+    "amenities": ["Restaurant", "Pool", "Airport Shuttle"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Davidson-Ellis",
+    "city": "Chicago",
+    "country": "USA",
+    "price_per_night": 475,
+    "amenities": ["Restaurant", "Gym", "Breakfast included"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Chen-Delacruz",
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "price_per_night": 335,
+    "amenities": ["Free WiFi", "Restaurant", "Airport Shuttle"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Mathis, Scott and Edwards",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 243,
+    "amenities": ["Free WiFi", "Pool", "Gym"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Peters, Davis and Jenkins",
+    "city": "Tokyo",
+    "country": "Japan",
+    "price_per_night": 481,
+    "amenities": ["Gym", "Free WiFi", "Breakfast included"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Harvey Inc",
+    "city": "Chicago",
+    "country": "USA",
+    "price_per_night": 190,
+    "amenities": ["Free WiFi", "Restaurant", "Airport Shuttle"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Cooper-Brown",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 317,
+    "amenities": ["Free WiFi", "Airport Shuttle", "Restaurant"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Orozco, Moody and Garrison",
+    "city": "Salvador",
+    "country": "Brazil",
+    "price_per_night": 114,
+    "amenities": ["Spa", "Restaurant", "Pool"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Moran-Hughes",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "price_per_night": 209,
+    "amenities": ["Airport Shuttle", "Spa", "Gym"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Peterson-Olson",
+    "city": "Chicago",
+    "country": "USA",
+    "price_per_night": 124,
+    "amenities": ["Pool", "Gym", "Spa"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Brown, Taylor and Parrish",
+    "city": "Marseille",
+    "country": "France",
+    "price_per_night": 447,
+    "amenities": ["Spa", "Breakfast included", "Free WiFi"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Williams, Estes and Brown",
+    "city": "Marseille",
+    "country": "France",
+    "price_per_night": 496,
+    "amenities": ["Spa", "Restaurant", "Breakfast included"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Strickland, Robinson and Tran",
+    "city": "Durban",
+    "country": "South Africa",
+    "price_per_night": 71,
+    "amenities": ["Gym", "Pool", "Free WiFi"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Morales-Vasquez",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "price_per_night": 101,
+    "amenities": ["Restaurant", "Pool", "Breakfast included"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Miller-Walker",
+    "city": "San Francisco",
+    "country": "USA",
+    "price_per_night": 122,
+    "amenities": ["Pool", "Breakfast included", "Restaurant"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Shannon LLC",
+    "city": "Osaka",
+    "country": "Japan",
+    "price_per_night": 466,
+    "amenities": ["Spa", "Gym", "Airport Shuttle"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Clarke LLC",
+    "city": "Vancouver",
+    "country": "Canada",
+    "price_per_night": 63,
+    "amenities": ["Restaurant", "Gym", "Pool"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Thomas and Sons",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "price_per_night": 445,
+    "amenities": ["Pool", "Airport Shuttle", "Gym"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Smith, Reynolds and Cross",
+    "city": "Lyon",
+    "country": "France",
+    "price_per_night": 236,
+    "amenities": ["Free WiFi", "Airport Shuttle", "Spa"],
+    "ratings": 4.0
+  },
+  {
+    "name": "House-Brown",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "price_per_night": 170,
+    "amenities": ["Spa", "Breakfast included", "Free WiFi"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Barrett PLC",
+    "city": "Berlin",
+    "country": "Germany",
+    "price_per_night": 114,
+    "amenities": ["Gym", "Breakfast included", "Airport Shuttle"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hensley Group",
+    "city": "Delhi",
+    "country": "India",
+    "price_per_night": 148,
+    "amenities": ["Airport Shuttle", "Breakfast included", "Pool"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Beltran, Moran and Hernandez",
+    "city": "Calgary",
+    "country": "Canada",
+    "price_per_night": 55,
+    "amenities": ["Restaurant", "Breakfast included", "Spa"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Carson, Matthews and Blair",
+    "city": "Bangalore",
+    "country": "India",
+    "price_per_night": 399,
+    "amenities": ["Breakfast included", "Restaurant", "Airport Shuttle"],
+    "ratings": 4.2
+  },
+  {
+    "name": "Lewis-Durham",
+    "city": "Munich",
+    "country": "Germany",
+    "price_per_night": 71,
+    "amenities": ["Breakfast included", "Gym", "Restaurant"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Smith, Scott and Cohen",
+    "city": "Nice",
+    "country": "France",
+    "price_per_night": 146,
+    "amenities": ["Gym", "Free WiFi", "Airport Shuttle"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Colon-Newton",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 485,
+    "amenities": ["Airport Shuttle", "Spa", "Free WiFi"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Nelson, Long and Gordon",
+    "city": "Chennai",
+    "country": "India",
+    "price_per_night": 492,
+    "amenities": ["Airport Shuttle", "Breakfast included", "Gym"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Allen and Sons",
+    "city": "Marseille",
+    "country": "France",
+    "price_per_night": 92,
+    "amenities": ["Breakfast included", "Gym", "Spa"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Gomez-Baker",
+    "city": "Munich",
+    "country": "Germany",
+    "price_per_night": 304,
+    "amenities": ["Gym", "Breakfast included", "Pool"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Mosley, Robinson and Nelson",
+    "city": "Naples",
+    "country": "Italy",
+    "price_per_night": 240,
+    "amenities": ["Pool", "Gym", "Breakfast included"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Brown-Scott",
+    "city": "Chicago",
+    "country": "USA",
+    "price_per_night": 226,
+    "amenities": ["Gym", "Breakfast included", "Free WiFi"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Gonzales-Todd",
+    "city": "Toulouse",
+    "country": "France",
+    "price_per_night": 97,
+    "amenities": ["Airport Shuttle", "Gym", "Free WiFi"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Jones, Reilly and Jenkins",
+    "city": "Delhi",
+    "country": "India",
+    "price_per_night": 118,
+    "amenities": ["Restaurant", "Pool", "Gym"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Moore-Marshall",
+    "city": "Ottawa",
+    "country": "Canada",
+    "price_per_night": 91,
+    "amenities": ["Breakfast included", "Gym", "Pool"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Adams, Kelly and Reid",
+    "city": "Melbourne",
+    "country": "Australia",
+    "price_per_night": 345,
+    "amenities": ["Pool", "Breakfast included", "Free WiFi"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Wood, Smith and Reynolds",
+    "city": "Chicago",
+    "country": "USA",
+    "price_per_night": 300,
+    "amenities": ["Pool", "Spa", "Restaurant"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hart PLC",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 428,
+    "amenities": ["Gym", "Spa", "Restaurant"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Peterson, Young and Fletcher",
+    "city": "Durban",
+    "country": "South Africa",
+    "price_per_night": 488,
+    "amenities": ["Airport Shuttle", "Restaurant", "Pool"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Evans Inc",
+    "city": "Hiroshima",
+    "country": "Japan",
+    "price_per_night": 463,
+    "amenities": ["Airport Shuttle", "Breakfast included", "Restaurant"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Krause-May",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "price_per_night": 415,
+    "amenities": ["Breakfast included", "Free WiFi", "Restaurant"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Henderson LLC",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "price_per_night": 259,
+    "amenities": ["Spa", "Restaurant", "Pool"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Atkinson-Hull",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "price_per_night": 216,
+    "amenities": ["Breakfast included", "Restaurant", "Pool"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Oliver Ltd",
+    "city": "Nice",
+    "country": "France",
+    "price_per_night": 185,
+    "amenities": ["Pool", "Restaurant", "Gym"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Lamb, Lamb and Gonzalez",
+    "city": "Cologne",
+    "country": "Germany",
+    "price_per_night": 375,
+    "amenities": ["Breakfast included", "Airport Shuttle", "Free WiFi"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Patel Inc",
+    "city": "Venice",
+    "country": "Italy",
+    "price_per_night": 80,
+    "amenities": ["Breakfast included", "Airport Shuttle", "Gym"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Smith-Turner",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "price_per_night": 156,
+    "amenities": ["Breakfast included", "Restaurant", "Airport Shuttle"],
+    "ratings": 3.8
+  },
+  {
+    "name": "White, Martin and Lam",
+    "city": "Hamburg",
+    "country": "Germany",
+    "price_per_night": 393,
+    "amenities": ["Restaurant", "Free WiFi", "Pool"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Thompson, Walsh and Young",
+    "city": "Berlin",
+    "country": "Germany",
+    "price_per_night": 246,
+    "amenities": ["Airport Shuttle", "Free WiFi", "Pool"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Curtis-Graham",
+    "city": "Toulouse",
+    "country": "France",
+    "price_per_night": 177,
+    "amenities": ["Spa", "Pool", "Restaurant"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Montoya, Barrett and Shaffer",
+    "city": "Brasilia",
+    "country": "Brazil",
+    "price_per_night": 303,
+    "amenities": ["Restaurant", "Airport Shuttle", "Gym"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Lewis, Stevens and Johnson",
+    "city": "Florence",
+    "country": "Italy",
+    "price_per_night": 228,
+    "amenities": ["Pool", "Spa", "Breakfast included"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Thomas and Sons",
+    "city": "Toulouse",
+    "country": "France",
+    "price_per_night": 472,
+    "amenities": ["Free WiFi", "Breakfast included", "Airport Shuttle"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Spencer, Mckinney and Michael",
+    "city": "Lyon",
+    "country": "France",
+    "price_per_night": 108,
+    "amenities": ["Restaurant", "Pool", "Airport Shuttle"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Howard, Chase and Oconnor",
+    "city": "Perth",
+    "country": "Australia",
+    "price_per_night": 253,
+    "amenities": ["Restaurant", "Gym", "Airport Shuttle"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Barnes LLC",
+    "city": "Mumbai",
+    "country": "India",
+    "price_per_night": 456,
+    "amenities": ["Gym", "Free WiFi", "Restaurant"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Barnett Inc",
+    "city": "Munich",
+    "country": "Germany",
+    "price_per_night": 386,
+    "amenities": ["Pool", "Gym", "Spa"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Villa Inc",
+    "city": "Florence",
+    "country": "Italy",
+    "price_per_night": 440,
+    "amenities": ["Spa", "Restaurant", "Airport Shuttle"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Williams-Erickson",
+    "city": "Salvador",
+    "country": "Brazil",
+    "price_per_night": 64,
+    "amenities": ["Airport Shuttle", "Pool", "Spa"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Rodriguez-Lawson",
+    "city": "Miami",
+    "country": "USA",
+    "price_per_night": 131,
+    "amenities": ["Breakfast included", "Pool", "Airport Shuttle"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Lucero Inc",
+    "city": "Cologne",
+    "country": "Germany",
+    "price_per_night": 497,
+    "amenities": ["Breakfast included", "Spa", "Free WiFi"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Owen, Hansen and Duffy",
+    "city": "Brasilia",
+    "country": "Brazil",
+    "price_per_night": 464,
+    "amenities": ["Free WiFi", "Airport Shuttle", "Restaurant"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Martin, Keith and Wiley",
+    "city": "Florence",
+    "country": "Italy",
+    "price_per_night": 487,
+    "amenities": ["Restaurant", "Free WiFi", "Gym"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Miranda PLC",
+    "city": "Lyon",
+    "country": "France",
+    "price_per_night": 400,
+    "amenities": ["Free WiFi", "Pool", "Airport Shuttle"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Smith-Harvey",
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "price_per_night": 402,
+    "amenities": ["Airport Shuttle", "Free WiFi", "Restaurant"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Morrow Inc",
+    "city": "Perth",
+    "country": "Australia",
+    "price_per_night": 496,
+    "amenities": ["Free WiFi", "Pool", "Airport Shuttle"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Tyler Ltd",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 76,
+    "amenities": ["Pool", "Free WiFi", "Gym"],
+    "ratings": 4.2
+  },
+  {
+    "name": "Thomas, Mendez and Gaines",
+    "city": "Paris",
+    "country": "France",
+    "price_per_night": 366,
+    "amenities": ["Gym", "Free WiFi", "Airport Shuttle"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Davis Ltd",
+    "city": "San Francisco",
+    "country": "USA",
+    "price_per_night": 218,
+    "amenities": ["Restaurant", "Breakfast included", "Free WiFi"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Stewart-Brooks",
+    "city": "Miami",
+    "country": "USA",
+    "price_per_night": 448,
+    "amenities": ["Pool", "Airport Shuttle", "Gym"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Carpenter-Cummings",
+    "city": "Berlin",
+    "country": "Germany",
+    "price_per_night": 130,
+    "amenities": ["Pool", "Gym", "Spa"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Jordan Group",
+    "city": "San Francisco",
+    "country": "USA",
+    "price_per_night": 168,
+    "amenities": ["Airport Shuttle", "Gym", "Breakfast included"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Clark-Smith",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "price_per_night": 412,
+    "amenities": ["Airport Shuttle", "Restaurant", "Spa"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Franco-Solis",
+    "city": "Adelaide",
+    "country": "Australia",
+    "price_per_night": 152,
+    "amenities": ["Breakfast included", "Gym", "Spa"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Webb, Harris and Williams",
+    "city": "Marseille",
+    "country": "France",
+    "price_per_night": 390,
+    "amenities": ["Restaurant", "Spa", "Pool"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Jones PLC",
+    "city": "Cologne",
+    "country": "Germany",
+    "price_per_night": 467,
+    "amenities": ["Pool", "Airport Shuttle", "Gym"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Mendoza, Shannon and Jordan",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "price_per_night": 212,
+    "amenities": ["Breakfast included", "Restaurant", "Pool"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Armstrong-Jones",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 139,
+    "amenities": ["Breakfast included", "Restaurant", "Spa"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Todd Inc",
+    "city": "Ottawa",
+    "country": "Canada",
+    "price_per_night": 387,
+    "amenities": ["Spa", "Airport Shuttle", "Pool"],
+    "ratings": 4.2
+  },
+  {
+    "name": "Jackson, Franklin and Cochran",
+    "city": "Sapporo",
+    "country": "Japan",
+    "price_per_night": 397,
+    "amenities": ["Spa", "Free WiFi", "Breakfast included"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Dixon-Wheeler",
+    "city": "Hamburg",
+    "country": "Germany",
+    "price_per_night": 350,
+    "amenities": ["Pool", "Gym", "Breakfast included"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hernandez-Montgomery",
+    "city": "Sapporo",
+    "country": "Japan",
+    "price_per_night": 273,
+    "amenities": ["Pool", "Gym", "Free WiFi"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Cortez Group",
+    "city": "Lyon",
+    "country": "France",
+    "price_per_night": 393,
+    "amenities": ["Airport Shuttle", "Gym", "Breakfast included"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Watson, Frederick and Hernandez",
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "price_per_night": 284,
+    "amenities": ["Restaurant", "Airport Shuttle", "Breakfast included"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Torres Ltd",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "price_per_night": 223,
+    "amenities": ["Restaurant", "Gym", "Airport Shuttle"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Reyes LLC",
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "price_per_night": 384,
+    "amenities": ["Airport Shuttle", "Free WiFi", "Spa"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Smith, Lopez and Hicks",
+    "city": "Perth",
+    "country": "Australia",
+    "price_per_night": 118,
+    "amenities": ["Restaurant", "Gym", "Airport Shuttle"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Barron, Taylor and Watts",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 412,
+    "amenities": ["Airport Shuttle", "Free WiFi", "Gym"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Reynolds, Wright and Fuller",
+    "city": "Hyderabad",
+    "country": "India",
+    "price_per_night": 273,
+    "amenities": ["Breakfast included", "Free WiFi", "Airport Shuttle"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Harmon-Bender",
+    "city": "Lyon",
+    "country": "France",
+    "price_per_night": 256,
+    "amenities": ["Breakfast included", "Free WiFi", "Airport Shuttle"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Hayden-Singh",
+    "city": "Brasilia",
+    "country": "Brazil",
+    "price_per_night": 496,
+    "amenities": ["Gym", "Pool", "Free WiFi"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Whitaker Inc",
+    "city": "Montreal",
+    "country": "Canada",
+    "price_per_night": 426,
+    "amenities": ["Airport Shuttle", "Breakfast included", "Free WiFi"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Johnson, Thomas and Clark",
+    "city": "Toronto",
+    "country": "Canada",
+    "price_per_night": 408,
+    "amenities": ["Pool", "Airport Shuttle", "Spa"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Inn Retreat",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 53,
+    "amenities": ["Free WiFi", "Airport Shuttle", "Breakfast included"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Resort Haven",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 413,
+    "amenities": ["Breakfast included", "Gym", "Airport Shuttle"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Lodge Vista",
+    "city": "Paris",
+    "country": "France",
+    "price_per_night": 175,
+    "amenities": ["Breakfast included", "Gym", "Pool"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Lodge Haven",
+    "city": "Paris",
+    "country": "France",
+    "price_per_night": 415,
+    "amenities": ["Restaurant", "Pool", "Gym"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Inn Oasis",
+    "city": "Paris",
+    "country": "France",
+    "price_per_night": 129,
+    "amenities": ["Restaurant", "Free WiFi", "Pool"],
+    "ratings": 3.3
+  },
+  {
+    "name": "Hotel Retreat",
+    "city": "New York",
+    "country": "USA",
+    "price_per_night": 419,
+    "amenities": ["Restaurant", "Airport Shuttle", "Spa"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Lodge Haven",
+    "city": "New York",
+    "country": "USA",
+    "price_per_night": 414,
+    "amenities": ["Free WiFi", "Airport Shuttle", "Gym"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Lodge Oasis",
+    "city": "Tokyo",
+    "country": "Japan",
+    "price_per_night": 497,
+    "amenities": ["Gym", "Airport Shuttle", "Restaurant"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Resort Haven",
+    "city": "Tokyo",
+    "country": "Japan",
+    "price_per_night": 328,
+    "amenities": ["Airport Shuttle", "Restaurant", "Breakfast included"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Inn Haven",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "price_per_night": 313,
+    "amenities": ["Breakfast included", "Pool", "Airport Shuttle"],
+    "ratings": 3.0
+  },
+  {
+    "name": "Hotel Haven",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "price_per_night": 340,
+    "amenities": ["Pool", "Breakfast included", "Free WiFi"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Resort Oasis",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "price_per_night": 65,
+    "amenities": ["Spa", "Restaurant", "Pool"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Lodge Oasis",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 213,
+    "amenities": ["Airport Shuttle", "Pool", "Spa"],
+    "ratings": 3.4
+  },
+  {
+    "name": "Hotel Retreat",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 494,
+    "amenities": ["Restaurant", "Pool", "Airport Shuttle"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Resort Haven",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 485,
+    "amenities": ["Breakfast included", "Restaurant", "Pool"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Elite 867",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 286,
+    "amenities": ["Pool", "Free WiFi", "Gym", "Breakfast included"],
+    "ratings": 3.3
+  },
+  {
+    "name": "Hotel Comfort 727",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 421,
+    "amenities": ["Restaurant", "Gym", "Breakfast included"],
+    "ratings": 4.2
+  },
+  {
+    "name": "Hotel Luxury 426",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 375,
+    "amenities": ["Restaurant", "Airport Shuttle"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Luxury 259",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 328,
+    "amenities": ["Spa", "Pool", "Gym", "Breakfast included"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Grand 562",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 414,
+    "amenities": ["Spa", "Gym", "Free WiFi", "Pool"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Luxury 324",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 295,
+    "amenities": ["Free WiFi", "Pool", "Airport Shuttle", "Spa", "Gym"],
+    "ratings": 3.2
+  },
+  {
+    "name": "Hotel Comfort 810",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 273,
+    "amenities": ["Spa", "Restaurant"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Hotel Elite 198",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 208,
+    "amenities": ["Free WiFi", "Spa", "Gym", "Pool"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Comfort 263",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 403,
+    "amenities": [
+      "Airport Shuttle",
+      "Free WiFi",
+      "Spa",
+      "Breakfast included",
+      "Restaurant"
+    ],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hotel Luxury 809",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 387,
+    "amenities": ["Free WiFi", "Pool"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Elite 463",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 296,
+    "amenities": [
+      "Airport Shuttle",
+      "Pool",
+      "Breakfast included",
+      "Gym",
+      "Spa"
+    ],
+    "ratings": 3.7
+  },
+  {
+    "name": "Hotel Grand 375",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 283,
+    "amenities": ["Airport Shuttle", "Free WiFi", "Spa"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Hotel Luxury 893",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 476,
+    "amenities": ["Breakfast included", "Gym"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Hotel Luxury 145",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 102,
+    "amenities": ["Free WiFi", "Airport Shuttle"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Grand 500",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 305,
+    "amenities": ["Spa", "Free WiFi", "Restaurant"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Elite 736",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 203,
+    "amenities": ["Airport Shuttle", "Restaurant"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Luxury 698",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 193,
+    "amenities": ["Pool", "Airport Shuttle", "Breakfast included", "Free WiFi"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Elite 959",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 452,
+    "amenities": ["Free WiFi", "Gym", "Airport Shuttle"],
+    "ratings": 3.2
+  },
+  {
+    "name": "Hotel Elite 274",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 464,
+    "amenities": ["Pool", "Breakfast included", "Free WiFi"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Elite 433",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 424,
+    "amenities": ["Restaurant", "Spa", "Free WiFi", "Airport Shuttle"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Hotel Comfort 389",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 279,
+    "amenities": ["Breakfast included", "Restaurant", "Free WiFi"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Grand 547",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 474,
+    "amenities": ["Restaurant", "Gym", "Pool", "Spa", "Airport Shuttle"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Hotel Grand 253",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 415,
+    "amenities": [
+      "Spa",
+      "Restaurant",
+      "Breakfast included",
+      "Airport Shuttle",
+      "Gym"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Grand 438",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 145,
+    "amenities": ["Spa", "Free WiFi"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Elite 923",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 268,
+    "amenities": ["Free WiFi", "Pool"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hotel Comfort 948",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 322,
+    "amenities": ["Breakfast included", "Spa", "Restaurant"],
+    "ratings": 3.3
+  },
+  {
+    "name": "Hotel Elite 946",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 387,
+    "amenities": ["Restaurant", "Free WiFi", "Spa"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Grand 897",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 405,
+    "amenities": [
+      "Spa",
+      "Free WiFi",
+      "Pool",
+      "Breakfast included",
+      "Restaurant"
+    ],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Grand 445",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 157,
+    "amenities": ["Spa", "Gym", "Breakfast included", "Free WiFi"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Elite 624",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 117,
+    "amenities": ["Restaurant", "Airport Shuttle", "Breakfast included"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Comfort 425",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 349,
+    "amenities": ["Pool", "Spa", "Airport Shuttle"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Grand 699",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 134,
+    "amenities": ["Spa", "Airport Shuttle", "Free WiFi", "Pool"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Grand 429",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 187,
+    "amenities": [
+      "Airport Shuttle",
+      "Breakfast included",
+      "Restaurant",
+      "Pool",
+      "Free WiFi"
+    ],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Luxury 275",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 78,
+    "amenities": ["Restaurant", "Spa", "Pool", "Gym", "Free WiFi"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hotel Luxury 547",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 332,
+    "amenities": ["Free WiFi", "Breakfast included"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Luxury 257",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 381,
+    "amenities": ["Pool", "Spa"],
+    "ratings": 3.2
+  },
+  {
+    "name": "Hotel Grand 672",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 80,
+    "amenities": ["Pool", "Spa"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Comfort 790",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 257,
+    "amenities": ["Breakfast included", "Restaurant", "Free WiFi"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Grand 774",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 330,
+    "amenities": ["Spa", "Gym"],
+    "ratings": 3.3
+  },
+  {
+    "name": "Hotel Grand 376",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 403,
+    "amenities": [
+      "Breakfast included",
+      "Restaurant",
+      "Airport Shuttle",
+      "Free WiFi"
+    ],
+    "ratings": 3.0
+  },
+  {
+    "name": "Hotel Elite 833",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 86,
+    "amenities": ["Spa", "Gym", "Pool"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Comfort 572",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 388,
+    "amenities": ["Restaurant", "Free WiFi"],
+    "ratings": 3.3
+  },
+  {
+    "name": "Hotel Grand 958",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 361,
+    "amenities": ["Spa", "Gym"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Elite 774",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 486,
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Breakfast included",
+      "Restaurant",
+      "Spa"
+    ],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Luxury 813",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 188,
+    "amenities": ["Gym", "Pool", "Restaurant", "Spa"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Grand 284",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 445,
+    "amenities": ["Free WiFi", "Breakfast included", "Spa"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Grand 721",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 316,
+    "amenities": ["Spa", "Gym", "Breakfast included", "Free WiFi"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Elite 449",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 486,
+    "amenities": ["Airport Shuttle", "Free WiFi", "Restaurant"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Luxury 651",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 255,
+    "amenities": ["Airport Shuttle", "Gym"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Luxury 900",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 392,
+    "amenities": ["Spa", "Gym", "Pool", "Airport Shuttle"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Hotel Comfort 891",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 193,
+    "amenities": ["Pool", "Free WiFi", "Spa", "Gym"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Elite 953",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 494,
+    "amenities": ["Breakfast included", "Airport Shuttle"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hotel Grand 156",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 349,
+    "amenities": ["Pool", "Airport Shuttle", "Restaurant", "Gym"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Comfort 702",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 295,
+    "amenities": ["Free WiFi", "Gym", "Spa", "Pool", "Airport Shuttle"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Hotel Comfort 773",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 60,
+    "amenities": ["Restaurant", "Pool", "Spa", "Breakfast included"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hotel Luxury 945",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 320,
+    "amenities": ["Free WiFi", "Airport Shuttle", "Spa", "Gym", "Pool"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Comfort 400",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 459,
+    "amenities": ["Breakfast included", "Free WiFi", "Restaurant", "Pool"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Hotel Comfort 545",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 177,
+    "amenities": ["Free WiFi", "Airport Shuttle"],
+    "ratings": 3.4
+  },
+  {
+    "name": "Hotel Comfort 748",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 133,
+    "amenities": ["Pool", "Free WiFi", "Gym", "Spa"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Elite 201",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 224,
+    "amenities": ["Breakfast included", "Airport Shuttle"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Hotel Luxury 206",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 353,
+    "amenities": ["Restaurant", "Airport Shuttle", "Pool"],
+    "ratings": 3.3
+  },
+  {
+    "name": "Hotel Luxury 815",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 394,
+    "amenities": ["Restaurant", "Breakfast included", "Pool"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Elite 937",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 346,
+    "amenities": ["Gym", "Restaurant", "Breakfast included"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Hotel Comfort 265",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 260,
+    "amenities": [
+      "Airport Shuttle",
+      "Breakfast included",
+      "Gym",
+      "Restaurant",
+      "Free WiFi"
+    ],
+    "ratings": 3.7
+  },
+  {
+    "name": "Hotel Elite 847",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 255,
+    "amenities": ["Pool", "Breakfast included", "Spa", "Free WiFi"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Luxury 240",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 379,
+    "amenities": ["Breakfast included", "Pool"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Comfort 840",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 237,
+    "amenities": ["Pool", "Restaurant"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Elite 460",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 76,
+    "amenities": ["Restaurant", "Pool", "Gym"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Hotel Grand 786",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 280,
+    "amenities": [
+      "Airport Shuttle",
+      "Restaurant",
+      "Breakfast included",
+      "Pool",
+      "Spa"
+    ],
+    "ratings": 3.9
+  },
+  {
+    "name": "Hotel Grand 943",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 212,
+    "amenities": ["Gym", "Spa", "Restaurant", "Breakfast included"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Luxury 564",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 416,
+    "amenities": ["Spa", "Airport Shuttle", "Restaurant", "Free WiFi", "Gym"],
+    "ratings": 4.2
+  },
+  {
+    "name": "Hotel Grand 463",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 436,
+    "amenities": ["Restaurant", "Spa", "Breakfast included"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Grand 894",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 213,
+    "amenities": ["Pool", "Airport Shuttle", "Spa", "Gym"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Elite 227",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 299,
+    "amenities": ["Pool", "Free WiFi", "Restaurant", "Gym"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Grand 209",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 282,
+    "amenities": ["Restaurant", "Airport Shuttle", "Breakfast included", "Spa"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Hotel Luxury 356",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 335,
+    "amenities": ["Pool", "Restaurant"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hotel Grand 944",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 198,
+    "amenities": ["Free WiFi", "Airport Shuttle"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Luxury 669",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 356,
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "Breakfast included",
+      "Pool",
+      "Airport Shuttle"
+    ],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Elite 259",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 380,
+    "amenities": ["Spa", "Gym", "Breakfast included", "Airport Shuttle"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Grand 324",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 166,
+    "amenities": ["Free WiFi", "Pool", "Gym"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Hotel Comfort 782",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 328,
+    "amenities": ["Airport Shuttle", "Free WiFi", "Restaurant", "Pool", "Gym"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Hotel Elite 337",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 231,
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Spa",
+      "Pool",
+      "Restaurant"
+    ],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Grand 572",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 79,
+    "amenities": ["Free WiFi", "Gym", "Restaurant"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Elite 700",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 117,
+    "amenities": ["Restaurant", "Airport Shuttle"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Luxury 131",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 242,
+    "amenities": ["Gym", "Pool", "Free WiFi", "Breakfast included"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Comfort 700",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 217,
+    "amenities": ["Breakfast included", "Spa"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Comfort 383",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 453,
+    "amenities": ["Gym", "Spa", "Restaurant"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Grand 167",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 370,
+    "amenities": [
+      "Gym",
+      "Restaurant",
+      "Free WiFi",
+      "Breakfast included",
+      "Pool"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Elite 925",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 69,
+    "amenities": ["Gym", "Free WiFi"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Hotel Comfort 795",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 186,
+    "amenities": ["Restaurant", "Spa", "Airport Shuttle", "Gym", "Free WiFi"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Comfort 500",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 176,
+    "amenities": ["Airport Shuttle", "Breakfast included", "Spa", "Restaurant"],
+    "ratings": 3.2
+  },
+  {
+    "name": "Hotel Comfort 901",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 212,
+    "amenities": [
+      "Breakfast included",
+      "Pool",
+      "Restaurant",
+      "Free WiFi",
+      "Gym"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "name": "Hotel Luxury 908",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 209,
+    "amenities": [
+      "Restaurant",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport Shuttle"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Grand 417",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 400,
+    "amenities": ["Restaurant", "Airport Shuttle", "Free WiFi"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Hotel Comfort 805",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 264,
+    "amenities": ["Spa", "Airport Shuttle", "Pool", "Free WiFi", "Restaurant"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Luxury 698",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 278,
+    "amenities": ["Breakfast included", "Restaurant"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Comfort 142",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 92,
+    "amenities": ["Pool", "Restaurant"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Luxury 272",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 314,
+    "amenities": ["Spa", "Breakfast included", "Free WiFi", "Pool", "Gym"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Hotel Grand 225",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 98,
+    "amenities": ["Pool", "Breakfast included", "Restaurant"],
+    "ratings": 3.4
+  },
+  {
+    "name": "Hotel Grand 624",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 449,
+    "amenities": ["Airport Shuttle", "Spa", "Free WiFi"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hotel Elite 356",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 123,
+    "amenities": ["Gym", "Restaurant", "Airport Shuttle", "Breakfast included"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Luxury 270",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 143,
+    "amenities": ["Spa", "Pool", "Gym"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Grand 841",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 435,
+    "amenities": ["Spa", "Breakfast included", "Pool", "Gym"],
+    "ratings": 3.2
+  },
+  {
+    "name": "Hotel Grand 793",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 189,
+    "amenities": ["Breakfast included", "Free WiFi"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Elite 785",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 90,
+    "amenities": ["Restaurant", "Spa"],
+    "ratings": 4.2
+  },
+  {
+    "name": "Hotel Luxury 274",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 421,
+    "amenities": ["Gym", "Free WiFi"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Hotel Grand 492",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 350,
+    "amenities": ["Pool", "Free WiFi", "Airport Shuttle"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Elite 564",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 348,
+    "amenities": ["Pool", "Breakfast included", "Spa"],
+    "ratings": 3.5
+  },
+  {
+    "name": "Hotel Elite 668",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 105,
+    "amenities": ["Free WiFi", "Pool", "Spa", "Restaurant", "Airport Shuttle"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Grand 660",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 196,
+    "amenities": ["Restaurant", "Pool", "Free WiFi"],
+    "ratings": 3.0
+  },
+  {
+    "name": "Hotel Elite 694",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 223,
+    "amenities": ["Airport Shuttle", "Free WiFi", "Gym"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Luxury 245",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 208,
+    "amenities": ["Spa", "Gym", "Restaurant"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Comfort 888",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 85,
+    "amenities": ["Pool", "Restaurant", "Breakfast included", "Gym"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Hotel Luxury 914",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 102,
+    "amenities": ["Pool", "Breakfast included", "Spa", "Airport Shuttle"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Luxury 710",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 339,
+    "amenities": [
+      "Gym",
+      "Breakfast included",
+      "Pool",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "name": "Hotel Grand 550",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 342,
+    "amenities": ["Airport Shuttle", "Breakfast included"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Grand 688",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 272,
+    "amenities": ["Airport Shuttle", "Breakfast included"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Grand 228",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 135,
+    "amenities": ["Pool", "Spa", "Free WiFi"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Grand 875",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 296,
+    "amenities": ["Airport Shuttle", "Free WiFi", "Breakfast included", "Pool"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Grand 128",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 79,
+    "amenities": ["Gym", "Pool", "Spa", "Airport Shuttle", "Free WiFi"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Luxury 906",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 365,
+    "amenities": ["Gym", "Restaurant", "Breakfast included", "Pool"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Elite 480",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 298,
+    "amenities": ["Spa", "Free WiFi", "Pool", "Restaurant", "Gym"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Hotel Luxury 600",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 221,
+    "amenities": ["Breakfast included", "Pool", "Restaurant"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Luxury 607",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 206,
+    "amenities": [
+      "Airport Shuttle",
+      "Breakfast included",
+      "Gym",
+      "Pool",
+      "Spa"
+    ],
+    "ratings": 3.2
+  },
+  {
+    "name": "Hotel Luxury 826",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 86,
+    "amenities": ["Free WiFi", "Pool", "Gym", "Spa", "Airport Shuttle"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Luxury 710",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 73,
+    "amenities": [
+      "Breakfast included",
+      "Restaurant",
+      "Airport Shuttle",
+      "Gym",
+      "Spa"
+    ],
+    "ratings": 3.3
+  },
+  {
+    "name": "Hotel Luxury 656",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 144,
+    "amenities": [
+      "Restaurant",
+      "Pool",
+      "Breakfast included",
+      "Gym",
+      "Airport Shuttle"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "name": "Hotel Luxury 256",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 223,
+    "amenities": ["Airport Shuttle", "Pool", "Free WiFi"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Elite 288",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "price_per_night": 74,
+    "amenities": ["Pool", "Airport Shuttle"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Hotel Elite 876",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 198,
+    "amenities": ["Airport Shuttle", "Gym"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Grand 935",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 450,
+    "amenities": ["Pool", "Restaurant"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Grand 566",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 221,
+    "amenities": ["Spa", "Breakfast included", "Gym"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Grand 186",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 376,
+    "amenities": ["Free WiFi", "Spa", "Restaurant"],
+    "ratings": 3.3
+  },
+  {
+    "name": "Hotel Luxury 448",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 211,
+    "amenities": ["Pool", "Gym", "Restaurant", "Spa"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Elite 143",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 244,
+    "amenities": ["Airport Shuttle", "Gym", "Restaurant", "Spa"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Luxury 387",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 57,
+    "amenities": ["Gym", "Airport Shuttle"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Comfort 445",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 285,
+    "amenities": ["Spa", "Restaurant", "Breakfast included", "Airport Shuttle"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Luxury 658",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 65,
+    "amenities": ["Pool", "Breakfast included", "Airport Shuttle"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Luxury 712",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "price_per_night": 94,
+    "amenities": ["Airport Shuttle", "Breakfast included", "Pool"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Elite 324",
+    "city": "Seoul",
+    "country": "South Korea",
+    "price_per_night": 199,
+    "amenities": ["Breakfast included", "Restaurant", "Spa", "Pool"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Grand 262",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 206,
+    "amenities": ["Restaurant", "Breakfast included", "Spa", "Gym", "Pool"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Luxury 602",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "price_per_night": 319,
+    "amenities": ["Spa", "Restaurant"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Elite 959",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 255,
+    "amenities": ["Pool", "Spa"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hotel Luxury 323",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 232,
+    "amenities": [
+      "Pool",
+      "Airport Shuttle",
+      "Breakfast included",
+      "Restaurant"
+    ],
+    "ratings": 3.4
+  },
+  {
+    "name": "Hotel Comfort 976",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "price_per_night": 256,
+    "amenities": ["Gym", "Breakfast included", "Spa", "Restaurant"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Hotel Grand 187",
+    "city": "Athens",
+    "country": "Greece",
+    "price_per_night": 259,
+    "amenities": ["Restaurant", "Pool"],
+    "ratings": 3.4
+  },
+  {
+    "name": "Hotel Comfort 715",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 208,
+    "amenities": ["Spa", "Free WiFi", "Breakfast included"],
+    "ratings": 3.1
+  },
+  {
+    "name": "Hotel Comfort 286",
+    "city": "Cairo",
+    "country": "Egypt",
+    "price_per_night": 421,
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "Breakfast included",
+      "Pool",
+      "Spa"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Luxury 335",
+    "city": "Moscow",
+    "country": "Russia",
+    "price_per_night": 288,
+    "amenities": ["Restaurant", "Breakfast included", "Gym", "Pool", "Spa"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Elite 239",
+    "city": "Singapore",
+    "country": "Singapore",
+    "price_per_night": 150,
+    "amenities": ["Restaurant", "Gym", "Pool"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Hotel Grand 983",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 291,
+    "amenities": ["Gym", "Restaurant", "Breakfast included", "Free WiFi"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Grand 444",
+    "city": "New York",
+    "country": "USA",
+    "price_per_night": 317,
+    "amenities": ["Restaurant", "Gym", "Airport Shuttle"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Luxury 434",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price_per_night": 618,
+    "amenities": ["Airport Shuttle", "Pool", "Gym", "Free WiFi"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Luxury 277",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price_per_night": 329,
+    "amenities": ["Restaurant", "Breakfast included", "Pool"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Hotel Luxury 722",
+    "city": "Hong Kong",
+    "country": "China",
+    "price_per_night": 362,
+    "amenities": ["Gym", "Airport Shuttle"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Luxury 431",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 267,
+    "amenities": ["Gym", "Breakfast included", "Free WiFi", "Airport Shuttle"],
+    "ratings": 4.0
+  },
+  {
+    "name": "Hotel Grand 986",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price_per_night": 214,
+    "amenities": ["Restaurant", "Pool", "Gym"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Prestige 613",
+    "city": "Paris",
+    "country": "France",
+    "price_per_night": 451,
+    "amenities": ["Airport Shuttle", "Breakfast included", "Gym", "Free WiFi"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Prime 955",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 612,
+    "amenities": ["Free WiFi", "Pool", "Spa", "Restaurant", "Airport Shuttle"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Luxury 282",
+    "city": "Tokyo",
+    "country": "Japan",
+    "price_per_night": 450,
+    "amenities": ["Airport Shuttle", "Pool", "Breakfast included", "Gym"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Hotel Prestige 954",
+    "city": "Hong Kong",
+    "country": "China",
+    "price_per_night": 283,
+    "amenities": [
+      "Restaurant",
+      "Pool",
+      "Gym",
+      "Breakfast included",
+      "Free WiFi"
+    ],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Prime 222",
+    "city": "Hong Kong",
+    "country": "China",
+    "price_per_night": 134,
+    "amenities": ["Breakfast included", "Free WiFi"],
+    "ratings": 4.3
+  },
+  {
+    "name": "Hotel Prestige 815",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price_per_night": 197,
+    "amenities": ["Breakfast included", "Spa", "Free WiFi"],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Grand 360",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 103,
+    "amenities": ["Free WiFi", "Pool", "Restaurant", "Breakfast included"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Luxury 906",
+    "city": "Tokyo",
+    "country": "Japan",
+    "price_per_night": 542,
+    "amenities": [
+      "Breakfast included",
+      "Free WiFi",
+      "Restaurant",
+      "Spa",
+      "Gym"
+    ],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Luxury 525",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 85,
+    "amenities": ["Spa", "Free WiFi"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Prestige 987",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 548,
+    "amenities": [
+      "Breakfast included",
+      "Spa",
+      "Pool",
+      "Airport Shuttle",
+      "Restaurant"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Prestige 365",
+    "city": "New York",
+    "country": "USA",
+    "price_per_night": 193,
+    "amenities": ["Spa", "Pool"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Hotel Grand 850",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 77,
+    "amenities": ["Restaurant", "Airport Shuttle", "Gym"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Hotel Prime 538",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 200,
+    "amenities": [
+      "Airport Shuttle",
+      "Restaurant",
+      "Breakfast included",
+      "Gym",
+      "Pool"
+    ],
+    "ratings": 4.1
+  },
+  {
+    "name": "Hotel Prime 497",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 421,
+    "amenities": [
+      "Restaurant",
+      "Breakfast included",
+      "Pool",
+      "Airport Shuttle"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "name": "Hotel Prestige 942",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price_per_night": 84,
+    "amenities": ["Gym", "Restaurant", "Pool", "Spa", "Airport Shuttle"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Luxury 801",
+    "city": "London",
+    "country": "UK",
+    "price_per_night": 449,
+    "amenities": ["Airport Shuttle", "Pool", "Free WiFi", "Spa", "Restaurant"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Grand 668",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 346,
+    "amenities": ["Gym", "Airport Shuttle"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Prestige 612",
+    "city": "Paris",
+    "country": "France",
+    "price_per_night": 198,
+    "amenities": [
+      "Breakfast included",
+      "Airport Shuttle",
+      "Spa",
+      "Pool",
+      "Free WiFi"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "name": "Hotel Prime 818",
+    "city": "Tokyo",
+    "country": "Japan",
+    "price_per_night": 132,
+    "amenities": ["Airport Shuttle", "Spa", "Restaurant", "Pool"],
+    "ratings": 4.8
+  },
+  {
+    "name": "Hotel Prime 792",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price_per_night": 379,
+    "amenities": ["Airport Shuttle", "Spa", "Pool", "Gym", "Restaurant"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Prestige 802",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 407,
+    "amenities": ["Pool", "Breakfast included"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Hotel Grand 503",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 317,
+    "amenities": ["Airport Shuttle", "Spa"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Hotel Prestige 919",
+    "city": "Paris",
+    "country": "France",
+    "price_per_night": 546,
+    "amenities": ["Pool", "Free WiFi", "Spa", "Breakfast included"],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Grand 106",
+    "city": "London",
+    "country": "UK",
+    "price_per_night": 317,
+    "amenities": ["Pool", "Spa", "Gym"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Prestige 320",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 391,
+    "amenities": ["Restaurant", "Free WiFi", "Pool"],
+    "ratings": 4.7
+  },
+  {
+    "name": "Hotel Prime 686",
+    "city": "New York",
+    "country": "USA",
+    "price_per_night": 697,
+    "amenities": ["Pool", "Free WiFi", "Airport Shuttle", "Spa"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Grand 453",
+    "city": "London",
+    "country": "UK",
+    "price_per_night": 88,
+    "amenities": ["Airport Shuttle", "Breakfast included", "Spa", "Free WiFi"],
+    "ratings": 5.0
+  },
+  {
+    "name": "Hotel Prime 236",
+    "city": "Paris",
+    "country": "France",
+    "price_per_night": 286,
+    "amenities": ["Gym", "Pool", "Free WiFi"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Hotel Grand 101",
+    "city": "Los Angeles",
+    "country": "USA",
+    "price_per_night": 545,
+    "amenities": ["Spa", "Restaurant", "Airport Shuttle", "Pool"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Luxury 784",
+    "city": "Los Angeles",
+    "country": "USA",
+    "price_per_night": 274,
+    "amenities": ["Spa", "Free WiFi"],
+    "ratings": 4.4
+  },
+  {
+    "name": "Hotel Prime 291",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 320,
+    "amenities": ["Spa", "Gym", "Free WiFi", "Pool"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Prestige 425",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 391,
+    "amenities": [
+      "Gym",
+      "Free WiFi",
+      "Pool",
+      "Airport Shuttle",
+      "Breakfast included"
+    ],
+    "ratings": 4.9
+  },
+  {
+    "name": "Hotel Grand 566",
+    "city": "Barcelona",
+    "country": "Spain",
+    "price_per_night": 563,
+    "amenities": ["Spa", "Free WiFi", "Restaurant"],
+    "ratings": 3.6
+  },
+  {
+    "name": "Hotel Prestige 617",
+    "city": "Tokyo",
+    "country": "Japan",
+    "price_per_night": 616,
+    "amenities": [
+      "Gym",
+      "Spa",
+      "Airport Shuttle",
+      "Breakfast included",
+      "Pool"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "name": "Hotel Prestige 556",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 419,
+    "amenities": ["Breakfast included", "Restaurant"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Hotel Prime 162",
+    "city": "Sydney",
+    "country": "Australia",
+    "price_per_night": 561,
+    "amenities": ["Restaurant", "Breakfast included", "Spa"],
+    "ratings": 4.6
+  },
+  {
+    "name": "Hotel Prestige 813",
+    "city": "Paris",
+    "country": "France",
+    "price_per_night": 326,
+    "amenities": ["Restaurant", "Gym", "Free WiFi"],
+    "ratings": 3.9
+  },
+  {
+    "name": "Hotel Prestige 842",
+    "city": "Rome",
+    "country": "Italy",
+    "price_per_night": 166,
+    "amenities": ["Gym", "Spa", "Breakfast included"],
+    "ratings": 4.1
+  },
+  {
+    "name": "Hotel Luxury 146",
+    "city": "Tokyo",
+    "country": "Japan",
+    "price_per_night": 194,
+    "amenities": [
+      "Breakfast included",
+      "Airport Shuttle",
+      "Spa",
+      "Restaurant",
+      "Free WiFi"
+    ],
+    "ratings": 3.8
+  },
+  {
+    "name": "Hotel Grand 891",
+    "city": "Los Angeles",
+    "country": "USA",
+    "price_per_night": 643,
+    "amenities": ["Restaurant", "Free WiFi", "Airport Shuttle", "Spa"],
+    "ratings": 3.7
+  },
+  {
+    "name": "Hotel Luxury 734",
+    "city": "Dubai",
+    "country": "UAE",
+    "price_per_night": 677,
+    "amenities": ["Restaurant", "Free WiFi", "Breakfast included"],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Prime 433",
+    "city": "New York",
+    "country": "USA",
+    "price_per_night": 640,
+    "amenities": [
+      "Restaurant",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport Shuttle"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "name": "Hotel Grand 725",
+    "city": "New York",
+    "country": "USA",
+    "price_per_night": 576,
+    "amenities": [
+      "Restaurant",
+      "Airport Shuttle",
+      "Breakfast included",
+      "Gym",
+      "Pool"
+    ],
+    "ratings": 3.8
+  }
+]

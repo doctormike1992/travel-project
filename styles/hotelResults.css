@@ -1,0 +1,121 @@
+#hotel-results {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 50px;
+}
+.hotel-div {
+  min-width: clamp(100px, 10vw, 600px);
+  width: 600px;
+  height: clamp(17rem, 30vw, 20rem) ;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  border: none;
+}
+
+.hotel-image-div {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(57, 59, 63);
+  border-radius: 10px 0px 0px 10px;
+
+  animation: slide 2.5s forwards;
+}
+@keyframes slide {
+  0% {
+    transform: translateX(290px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+.hotel-image {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.hotel-info {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(57, 59, 63);
+  border-radius: 0px 10px 10px 0px;
+  
+
+}
+.hotel-info-subdiv {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: end;
+  flex-wrap: wrap;
+}
+.hotel-info-subdiv p,
+h2,
+h3,
+i {
+  margin-right: clamp(1px, 10vw, 15px);
+}
+.hotel-name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid white;
+  color: rgb(255, 184, 41);
+}
+.hotelName {
+  margin: 0;
+}
+.hotel-location {
+  font-style: italic;
+  font-weight: lighter;
+}
+.hotel-city {
+  color: white;
+}
+.hotel-country {
+  color: rgb(255, 159, 41);
+}
+.hotel-cost {
+  font-size: large;
+  color: white;
+}
+.price {
+  color: rgb(47, 255, 47);
+}
+.hotelService {
+  background-color: rgb(53, 53, 53);
+  font-size: medium;
+  padding: 3px;
+  border-radius: 5px;
+  color: rgb(3, 250, 3);
+  margin: 6px;
+}
+.hotel-rating {
+  color: white;
+  margin: 0;
+}
+.rating i {
+  color: gold;
+  margin: 0;
+}
+.totalP {
+  font-size: large;
+  margin: 0;
+  color: white;
+}
+.total {
+  color: rgb(3, 250, 3);
+}

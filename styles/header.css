@@ -1,0 +1,147 @@
+.header {
+  display: flex;
+  background-color: transparent;
+  color: white;
+  padding: 1em;
+  width: 100%;
+  vertical-align: middle;
+  z-index: 1000;
+  top: 0;
+  position: fixed;
+}
+#head-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: start;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+}
+.nav-list {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  align-items: center;
+  flex-direction: row;
+  font-size: 18px;
+}
+.nav-list li{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.nav-list a {
+  color: white;
+  text-decoration: none;
+  position: relative;
+  transition: filter  0.5s ease;
+  padding-right:clamp(5px, 2vw, 65px);
+}
+.nav-list a::after {
+  content: '';
+  position: absolute; 
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: white;
+  transition: width 0.2s ease;
+}
+.nav-list a:hover::after {
+  width: 50%;
+}
+.nav-list a:hover {
+ text-shadow: 0 0 8px  white;
+}
+.header.scrolled {
+  background-color: rgba(0, 0, 0, 0.7);
+  transition: background-color 0.5s; 
+}
+
+.brand{
+  text-decoration: none;
+  color: white;
+  font-size: clamp(14px, 2vw, 25px);
+}
+
+.barMenu:before{
+  content: '';
+  background-color: white;
+  width: 30px;
+  height: 6px;
+  display: inline-block;
+  position: absolute;
+  bottom: 130%;
+  border-radius: 20px;
+  transition: all 0.2s;
+  transform-origin: left center;
+ 
+}
+.barMenu{
+  background-color: white;
+  width: 30px;
+  height: 6px;
+  position: relative;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+  transform-origin: left center;
+  display: none;
+}
+.barMenu:after{
+  content: '';
+  background-color: white;
+  width: 30px;
+  height: 6px;
+  display: inline-block;
+  position: absolute;
+  top: 130%;
+  border-radius: 20px;
+  transition: all 0.2s;
+  transform-origin: left center;
+
+}
+#check{
+  pointer-events: none;
+  display: none;
+}
+
+ .barMenu:has(#check:checked){
+  width: 0;
+ }
+ .barMenu:has(input:checked)::before{
+  transform: rotate(45deg);
+  bottom: 180%;
+
+ }
+  .barMenu:has(input:checked)::after{
+  transform: rotate(-45deg);
+  top: 170%;
+ }
+ /* RESPONSIVE */
+ @media (max-width: 1050px) {
+  .nav-list{
+    flex-direction: column;
+    align-items:  center;
+    justify-content:  center;
+    gap: 30px;
+  }
+  .nav{
+    margin-right: 2%;
+    width: 20%;
+  }
+  .nav-list li{
+    display: none;
+  }
+  .barMenu{
+    display: block;
+  }
+  .nav-list a:hover::after{
+    width: 70%;
+  }
+ }

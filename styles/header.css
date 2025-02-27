@@ -60,7 +60,7 @@
  text-shadow: 0 0 8px  white;
 }
 .header.scrolled {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.1);
   transition: background-color 0.5s; 
 }
 

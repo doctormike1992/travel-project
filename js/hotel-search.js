@@ -120,20 +120,29 @@ function inputImages() {
   const destinationImg = document.querySelectorAll(".destination-img");
 
   const destinationName = document.querySelectorAll(".input-name");
+  
 
   inputButton.addEventListener("click", async () => {
+   
+    setTimeout(() => {
+      document
+        .getElementById("show-place-div")
+        .scrollIntoView({ behavior: "smooth" });
+    }, 10); 
+
     const descriptionDiv = document.querySelector(".citydescriptionP");
     descriptionDiv.textContent = "";
     getCityInfo();
-
+ 
     const query = input.value.trim();
     destinationName.forEach((item) => (item.textContent = query.toUpperCase()));
     if (!query) {
       return;
     }
+
     const imagePath = await fetchAPI(query);
 
-    window.scrollTo({ top: 3500, behavior: "smooth" });
+   
     if (imagePath && imagePath.length > 0) {
       destinationImg.forEach((img) => {
         const randomImage = Math.floor(Math.random() * imagePath.length);
